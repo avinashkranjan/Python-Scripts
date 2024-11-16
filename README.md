@@ -21,7 +21,7 @@ that can make Life Easier for you, as a **_Developer_**, and find a utility of c
   <a href="https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/SCRIPTS.md">
     <img src="https://forthebadge.com/images/badges/check-it-out.svg">
   </a>
-
+<h1>changes by dhiraj</h1>
 <h2 align=center> 👨🏻‍💻 How to get started? </h2> 
 
 You can refer to the following articles on **_basics of Git and Github and also contact the Project Mentors, in case you are stuck_**:
